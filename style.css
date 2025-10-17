@@ -1,0 +1,14 @@
+.navbars{
+  
+    position:sticky;
+    top:0;
+}
+#xp div div:nth-child(2) .colors{
+    color: rgb(24, 193, 240);
+}
+#xp div div:nth-child(3) .colors{
+    color: rgb(47, 250, 192);
+}
+#xp div div:nth-child(1) .colors{
+    color: rgb(252, 60, 60);
+}
